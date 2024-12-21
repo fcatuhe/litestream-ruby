@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    litestream (0.12.0)
+    aarch64_litestream (0.12.0.1)
       actionpack (>= 7.0)
       actionview (>= 7.0)
       activejob (>= 7.0)
@@ -236,7 +236,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  litestream!
+  aarch64_litestream!
   minitest (~> 5.0)
   rails
   rake (~> 13.0)
